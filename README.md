@@ -1,4 +1,4 @@
-<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src= https://github.com/Soares-remootFR/Avaliacao_de_Produtos-SQL.Metabase/tree/main/>
+<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src=  />
 
 📊 Dashboard de Análise de Avaliações de Produtos (SQL)
 
