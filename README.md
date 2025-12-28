@@ -1,3 +1,5 @@
+<img width="1269" height="869" alt="Screenshot 2025-11-25 234812" src=  />
+
 📊 Dashboard de Análise de Avaliações de Produtos (SQL)
 
 Este projeto detalha o desenvolvimento de um painel analítico focado no monitoramento de avaliações de produtos (Product Reviews). O objetivo é utilizar a linguagem SQL para estruturar, relacionar e extrair indicadores de qualidade, volume e desempenho do portfólio de produtos.
